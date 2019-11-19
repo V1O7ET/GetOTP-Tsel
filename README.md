@@ -1,3 +1,2 @@
 # GetOTP-Tsel
-#Ape_Lu
-#No_Ganti_CopyRight
+ApeLu No Ganti CopyRight
