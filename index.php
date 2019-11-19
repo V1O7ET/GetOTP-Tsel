@@ -1,4 +1,11 @@
-   
+   //*
+Get OTP By : Rud Az ( V1O7ET )
+No Ganti CopyRight 
+Jika Ingin Di Hargai Mama Hargai Orang Ya
+
+My Blog : Aurainfo.xyz
+
+*//
 <!DOCTYPE html>
 <html lang="en">
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
