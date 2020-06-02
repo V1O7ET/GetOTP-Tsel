@@ -1,2 +1,2 @@
 # GetOTP-Tsel
-ApeLu No Ganti CopyRight
+Upload Hosting Goblok
